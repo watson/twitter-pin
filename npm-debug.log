@@ -1,0 +1,22 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/watson/.nvm/v0.10.38/bin/node',
+1 verbose cli   '/Users/watson/.nvm/v0.10.38/bin/npm',
+1 verbose cli   'test' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.38
+4 error Failed to parse json
+4 error Unexpected string
+5 error File: /Users/watson/code/node_modules/twitter-pin/package.json
+6 error Failed to parse package.json data.
+6 error package.json must be actual JSON, not just JavaScript.
+6 error
+6 error This is not a bug in npm.
+6 error Tell the package author to fix their package.json file. JSON.parse
+7 error System Darwin 14.3.0
+8 error command "/Users/watson/.nvm/v0.10.38/bin/node" "/Users/watson/.nvm/v0.10.38/bin/npm" "test"
+9 error cwd /Users/watson/code/node_modules/twitter-pin
+10 error node -v v0.10.38
+11 error npm -v 1.4.28
+12 error file /Users/watson/code/node_modules/twitter-pin/package.json
+13 error code EJSONPARSE
+14 verbose exit [ 1, true ]

@@ -1,0 +1,37 @@
+{
+  "name": "twitter-pin",
+  "version": "0.0.0",
+  "description": "A dead simple Twitter PIN-based authorization module",
+  "main": "index.js",
+  "dependencies": {
+    "oauth": "^0.9.13"
+  },
+  "devDependencies": {
+    "standard": "^4.3.2",
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watson/twitter-pin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/watson/twitter-pin/issues"
+  },
+  "homepage": "https://github.com/watson/twitter-pin",
+  "keywords": [
+    "twitter",
+    "oauth",
+    "pin",
+    "auth",
+    "authorize",
+    "authorise",
+    "authorization",
+    "authorisation",
+    "authentication"
+  ],
+  "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT"
+}
