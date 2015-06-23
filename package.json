@@ -1,6 +1,6 @@
 {
   "name": "twitter-pin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A dead simple Twitter PIN-based authorization module",
   "main": "index.js",
   "dependencies": {
@@ -33,5 +33,9 @@
     "authentication"
   ],
   "author": "Thomas Watson Steen <w@tson.dk> (https://twitter.com/wa7son)",
-  "license": "MIT"
+  "license": "MIT",
+  "coordinates": [
+    18.4786792,
+    -69.9548226
+  ]
 }
